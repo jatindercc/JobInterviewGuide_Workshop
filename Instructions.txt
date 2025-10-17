@@ -1,0 +1,27 @@
+In-class activity for Wednesday, October 15, 2025
+Make a copy of the following workshop files and folders:
+DataStreamVisualization_Workshop
+ which can be used for interviewing me for a Junior or entry-level ML Specialist Position 
+ 
+LinearRegressionArchitecture_Workshop
+PerformanceMetricsClassification
+KNearestNeighbors_Workshop
+LogisticRegressionClassifier
+
+2. Make a copy of the study guide on the course shell and save the guide as a file called "StudyGuide.txt"
+3. ZIP all the workshop IPYNB files into a file called "StudyMaterials.zip"
+4. Open a new LLM session.
+5. Upload "StudyGuide.txt" and "StudyMaterials.zip" to the session.
+6. Write a prompt that:
+    a. Informs the LLM that you are a Data Scientist and Machine Learning Engineer, fresh out of college.
+    b. Informs the LLM that it is a seasoned Data Scientist, Machine Learning Engineer, and interviewer.
+    c. Informs the LLM that it will be interviewing you for an ML Specialist Position.
+    d. Asks the LLM to unzip the workshops, understand them, and produce a 500-word summary of the learning content.
+    e. Asks the LLM to understand the study guide and write a 100-word summary of the topics for the job interview.
+    f. Asks the LLM to match the guide and materials, and then produce a table to report if the materials cover the topics, or if there is a gap.
+    h. Asks the LLM to produce 15 multiple-choice questions with five answers: A, B, C, D and E, based on what it has learned about the knowledge requirements and the study materials. It should start a quiz and ask you one question at a time. Your task will be to select the correct option. Once you have completed the quiz, it will provide you with a score and proceed to the next step, which is to produce a Jupyter Notebook with exercises specifically designed to help you study for the interview. 
+	
+	The new workshop folder will be called "JobInterviewGuide_Workshop", and it should contain materials in a Jupyter Notebook, tailored to your specific training needs, based on the questions you got wrong on the quiz. It should include Markdown explanations of the concepts and Python code cells for scaffolding. The LLM should use the materials included in the ZIP file as an example of what it should produce. Tell it to stand by and not start the quiz yet, and wait for your command.
+	
+7. Push "JobInterviewGuide_Workshop.ipynb" to GitHub
+8. Include markdown with the contents of the entire LLM session and all the prompts you issued therein.
